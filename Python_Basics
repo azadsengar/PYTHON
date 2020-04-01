@@ -20,4 +20,23 @@ a.) Integer – In Python 3, there is no upper bound on the integer number which
 b.) Long – Long data type is deprecated in Python 3 because there is no need for it, since the integer has no upper limit, there is no point in having a data type that allows larger upper limit than integers.
 c.) Float – Values with decimal points are the float values, there is no need to specify the data type in Python. It is automatically inferred based on the value we are assigning to a variable. For example here fnum is a float data type.
 
+2.) String -
+String is a sequence of characters in Python. The data type of String in Python is called “str”.
+Strings in Python are either enclosed with single quotes or double quotes.
+
+3.) Tuple - 
+Tuple is immutable data type in Python which means it cannot be changed. It is an ordered collection of elements enclosed in round brackets and separated by commas.
+NOTE: Tuple has index position
+
+
+
+
+
+
+
+
+
+
+
+
  
