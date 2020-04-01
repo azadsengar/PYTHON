@@ -1,1 +1,13 @@
+												PYTHON DATA TYPES
+												
+Python data types are divided in two categories, mutable data types and immutable data types.
 
+Immutable Data types in Python
+1. Numeric
+2. String
+3. Tuple
+
+Mutable Data types in Python
+1. List
+2. Dictionary
+3. Set
