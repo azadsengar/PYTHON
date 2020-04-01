@@ -11,3 +11,13 @@ Mutable Data types in Python
 1. List
 2. Dictionary
 3. Set
+
+
+Immutable data types in detail:-
+
+1.) Numeric - 
+a.) Integer – In Python 3, there is no upper bound on the integer number which means we can have the value as large as our system memory allows.
+b.) Long – Long data type is deprecated in Python 3 because there is no need for it, since the integer has no upper limit, there is no point in having a data type that allows larger upper limit than integers.
+c.) Float – Values with decimal points are the float values, there is no need to specify the data type in Python. It is automatically inferred based on the value we are assigning to a variable. For example here fnum is a float data type.
+
+ 
